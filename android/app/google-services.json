@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772284435072",
+    "project_id": "cloud-fire-store-45b6c",
+    "storage_bucket": "cloud-fire-store-45b6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772284435072:android:af3cb184c767d25fb3b465",
+        "android_client_info": {
+          "package_name": "com.example.cloud_fire_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-A8uZKBot7OOH0G5a0zkzadWGJSTe7gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
